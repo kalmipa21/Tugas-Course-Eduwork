@@ -1,0 +1,57 @@
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+    padding-left: 50px;
+  }
+  .image1 {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  .image2 {
+    position: absolute;
+    top: 165px;
+    left: 15px;
+    background: white;
+    width: 15%;
+    border-radius: 0.8rem;
+    padding: 10px;
+  }
+  .image3 {
+    position: absolute;
+    top: 225px;
+    left: 70px;
+    background: white;
+    width: 15%;
+    border-radius: 0.8rem;
+    padding: 10px;
+  }
+
+  .image4{
+    position: absolute;
+    top: 300px;
+    left: center;
+    background: white;
+    width: 15%;
+    border-radius: 0.8rem;
+    padding: 10px
+  }
+  /* .bgpage{
+    position: relative;
+    top: 0;
+    left: 0;
+    border: 1px red solid;
+  }
+  .child{
+    position: absolute;
+  } */
+  .btn{
+    border-radius: 1rem;
+
+  }
+
+  .background{
+    background-image: linear-gradient(to left, #e6e7ee00, #ffffffee), url("bg-hero1.png");
+    
+  }
